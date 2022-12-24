@@ -5,7 +5,7 @@ on:
     branches:
       - main
 #  schedule:
-#    - cron: "3 0 * * *"
+#    - cron: "4 0 * * *"
 
 jobs:
   autogreen:
@@ -16,7 +16,6 @@ jobs:
 
       - name: Auto green
         run: |
-          aRun=``tr -dc "a-z" < /dev/urandom | head -c 5``
           git config --local user.email "george012@163.com"
           git config --local user.name "walala"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
