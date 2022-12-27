@@ -1,10 +1,10 @@
-name: ci
+name: I Don't Need Girlfriend
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "35 0 * * *"
+    - cron: "40 16 * * *"
 
 jobs:
   autogreen:
@@ -19,5 +19,5 @@ jobs:
           git config --local user.name "WMYeah"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          git commit --allow-empty -m "i not need girlfriend"
+          git commit --allow-empty -m "I Don't Need Girlfriend"
           git push
