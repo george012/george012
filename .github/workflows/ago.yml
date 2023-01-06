@@ -1,10 +1,12 @@
 name: I Don't Need Girlfriend
+
 on:
   push:
     branches:
       - main
+    
   schedule:
-    - cron: "40 16 * * *"
+    - cron: "15 0 * * *"
 
 jobs:
   autogreen:
@@ -16,7 +18,7 @@ jobs:
       - name: Auto green
         run: |
           git config --local user.email "george012@163.com"
-          git config --local user.name "WMYeah"
+          git config --local user.name "WMYeah_AT"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           git commit --allow-empty -m "I Don't Need Girlfriend"
