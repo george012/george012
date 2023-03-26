@@ -7,4 +7,5 @@
 |repos (项目)|describe（描述）|
 |:-|:-|
 |[gtbox](https://github.com/george012/gtbox)|golang日常开发工具库|
-|[one_key_install_core-geth ](https://github.com/george012/one_key_install_core-geth )|一键安装`ETC`节点脚本|
+|[one_key_install_core-geth](https://github.com/george012/one_key_install_core-geth)|一键安装`ETC`节点脚本|
+|[gt_script](https://github.com/george012/gt_script)|日常开发脚本|
