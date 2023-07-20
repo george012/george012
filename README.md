@@ -11,3 +11,4 @@
 |[one_key_install_core-geth](https://github.com/george012/one_key_install_core-geth)|一键安装`ETC`节点脚本|
 |[gt_script](https://github.com/george012/gt_script)|日常开发脚本|
 |[libhv-build](https://github.com/george012/libhv-build)|`libhv` 自动编译|
+|[cloudflare-r2-upload](https://github.com/george012/cloudflare-r2-upload)|`Cloudflare R2` 利用`Github Action`上传文件脚本|
