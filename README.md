@@ -13,4 +13,4 @@
 |[gt_script](https://github.com/george012/gt_script)|日常开发脚本|
 |[libhv-build](https://github.com/george012/libhv-build)|`libhv` 自动编译|
 |[cloudflare-r2-upload](https://github.com/george012/cloudflare-r2-upload)|`Cloudflare R2` 利用`Github Action`上传文件脚本|
-|[upload_github_release_assets_action](https://github.com/george012/upload_github_release_assets_action)|``Github Action`上传文件文件到Assets脚本|
+|[upload_github_release_assets_action](https://github.com/george012/upload_github_release_assets_action)|`Github Action`上传文件文件到Assets脚本|
