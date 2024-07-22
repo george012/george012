@@ -9,6 +9,7 @@
 |:-|:-|
 |[gtbox](https://github.com/george012/gtbox)|golang日常开发工具库|
 |[rs_box](https://github.com/george012/rs_box)|rust日常开发工具库|
+|[fltk_go](https://github.com/george012/fltk_go)|fltk golang 绑定，---gui|
 |[eth_hash_node_install](https://github.com/george012/eth_hash_node_install)|一键安装`ETC` `ETH Pow算法`节点脚本|
 |[gt_script](https://github.com/george012/gt_script)|日常开发脚本|
 |[libhv-build](https://github.com/george012/libhv-build)|`libhv` 自动编译|
