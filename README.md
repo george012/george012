@@ -1,6 +1,6 @@
 <font size=20 color=blue>Learn popular technologies and study unpopular directions.</font>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=george012&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=george012)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 |||
