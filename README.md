@@ -1,5 +1,8 @@
 <font size=20 color=blue>Learn popular technologies and study unpopular directions.</font>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=george012&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 |||
 |:-|-:|
 | [![GitHub Streak](https://streak-stats.demolab.com?user=george012&theme=dark-minimalist&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=george012&theme=dark-minimalist&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) |
